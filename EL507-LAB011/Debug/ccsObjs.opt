@@ -1,0 +1,1 @@
+"./hb.obj" "./i2c.obj" "./lcd.obj" "./led.obj" "./main.obj" "./mcp7940m.obj" "./mosc.obj" "./motor.obj" "./pcf8574a.obj" "./systick.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
